@@ -10,7 +10,6 @@ The dataset used for this analysis was collected from Kaggle and centers around 
 - Modeling and Hyperparameter Tuning
 - Performance Summary
 
-## Customer Churn
 <p align="left">
  <img src="assets/customer_churn.png" alt="kmeans_plot"/>
 </p>
