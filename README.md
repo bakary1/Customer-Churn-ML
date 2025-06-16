@@ -5,7 +5,7 @@ Customer churn, the rate at which customers discontinue their engagement with a 
 
 The dataset used for this analysis was collected from Kaggle and centers around a teleco company. More information about the dataset can be found here: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
-**Project Outline:
+**Project Outline:**
 - EDA & Data Cleaning
 - Feature Transformation
 - Modeling and Hyperparameter Tuning
